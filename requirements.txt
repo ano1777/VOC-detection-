@@ -1,0 +1,12 @@
+# Python 3.11/3.12 recommended. Reference torch/vision pair: 2.8.0 / 0.23.0.
+# Install an appropriate torch wheel first; see README for CPU/CUDA commands.
+torch==2.8.0
+torchvision==0.23.0
+numpy>=1.26,<3
+Pillow>=10.4,<13
+pandas>=2.2,<3
+matplotlib>=3.9,<4
+tqdm>=4.66,<5
+streamlit>=1.40,<2
+jupyterlab>=4.2,<5
+nbformat>=5.10,<6

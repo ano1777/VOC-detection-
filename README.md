@@ -1,3 +1,4 @@
+
 # Object Detection on PASCAL VOC 2012
 
 A readable notebook-first project implementing data cleaning, preprocessing, pretrained detection, fine-tuning, controlled experiments, evaluation, error analysis, inference optimization and a local image-upload demo.
